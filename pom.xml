@@ -16,11 +16,11 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
            <name>Snapshot</name>
            <url>http://10.32.39.203:8081/repository/Snapshot/</url>
         </snapshotRepository>
-        <releaseRepository>
+        <repository>
            <id>Nexus</id>
            <name>Release</name>
            <url>http://10.32.39.203:8081/repository/Release/</url>
-        </releaseRepository>   
+        </repository>   
     </distributionManagement>   
   
   <name>Maven Quick Start Archetype</name>  
